@@ -24,4 +24,4 @@ class ControllerCadastrar{
     }
 }
 new ControllerCadastrar();
-?>
+?> 
